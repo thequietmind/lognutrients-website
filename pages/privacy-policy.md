@@ -1,0 +1,19 @@
+# Log Nutrients
+
+## Privacy Policy
+
+This app uses Apple Health data to calculate calorie expenditure, TDEE, and related nutrition metrics.
+
+All Apple Health data is accessed locally on your device and is never collected, stored, transmitted, or shared by the developer.
+
+The app does not use analytics, advertising, or third-party tracking services.
+
+No personal data is collected or stored outside your device.
+
+If you have questions about this privacy policy, you can contact the developer at:
+
+> `hello [at] quietmindcreative [dot] com`
+
+---
+
+_Last updated: February 2026_
