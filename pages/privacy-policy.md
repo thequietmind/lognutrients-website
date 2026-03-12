@@ -12,7 +12,7 @@ No personal data is collected or stored outside your device.
 
 If you have questions about this privacy policy, you can contact the developer at:
 
-> `hello [at] quietmindcreative [dot] com`
+> hello [at] quietmindcreative [dot] com
 
 ---
 

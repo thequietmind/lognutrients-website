@@ -12,7 +12,23 @@ createApp({
       palette: {
         primary: { main: "#0269d4" },
         secondary: { main: "#7611a6" },
-        background: { default: "#ffffff", paper: "#a5d4f5" },
+        background: { default: "#f9f4f4", paper: "#a5d4f5" },
+      },
+      components: {
+        MuiDrawer: {
+          styleOverrides: {
+            paper: {
+              backgroundColor: '#827867', // or leave unset to use default
+            }
+          }
+        },
+        MuiAppBar: {
+          styleOverrides: {
+            root: {
+              backgroundColor: '#424a37',
+            }
+          }
+        }
       },
     },
     dark: {
@@ -20,6 +36,22 @@ createApp({
         primary: { main: "#84d2f6" },
         secondary: { main: "#c561f6" },
         background: { default: "#121212", paper: "#191919" },
+      },
+      components: {
+        MuiDrawer: {
+          styleOverrides: {
+            paper: {
+              backgroundColor: '#453823', // or leave unset to use default
+            }
+          }
+        },
+        MuiAppBar: {
+          styleOverrides: {
+            root: {
+              backgroundColor: '#424a37',
+            }
+          }
+        }
       },
     },
   },
