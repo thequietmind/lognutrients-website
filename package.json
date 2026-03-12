@@ -15,7 +15,7 @@
     "@mdx-js/rollup": "^3.1.0",
     "@mui/icons-material": "^7.1.2",
     "@mui/material": "^7.1.2",
-    "@quietmind/mdx-docs": "latest",
+    "@quietmind/mdx-docs": "^0.1.15",
     "@vitejs/plugin-react": "^4.4.1",
     "prism-react-renderer": "^2.4.1",
     "prismjs": "^1.30.0",

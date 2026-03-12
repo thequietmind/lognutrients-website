@@ -573,10 +573,10 @@
   resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.11.8.tgz#6b79032e760a0899cd4204710beede972a3a185f"
   integrity sha512-P1st0aksCrn9sGZhp8GMYwBnQsbvAWsZAX44oXNNvLHGqAOcoVxmjZiohstwQ7SqKnbR47akdNi+uleWD8+g6A==
 
-"@quietmind/mdx-docs@latest":
-  version "0.1.13"
-  resolved "https://registry.yarnpkg.com/@quietmind/mdx-docs/-/mdx-docs-0.1.13.tgz#af3059403c04bf81e9570de521a3112b8ff6bdcf"
-  integrity sha512-mpsmRKQyWL9c5wr7ChMsq3N+3ejjbtXQRgE7I5ZsV9nG1qME5/JH8Ygnt4I8lxkIRCVmz5C6GQlzGP7wB1wO4A==
+"@quietmind/mdx-docs@^0.1.15":
+  version "0.1.15"
+  resolved "https://registry.yarnpkg.com/@quietmind/mdx-docs/-/mdx-docs-0.1.15.tgz#8cffd10646776ce9873dcdb574b4f194ef931b05"
+  integrity sha512-Ak9Yxn24emRN7CR9UJQFJTLfcWbjikgUPhoLHEWHAIxCFoGmW1EkbNqI09RtwXxRK5Oe5mrN5/LA1ZtA5em3tg==
 
 "@rolldown/pluginutils@1.0.0-beta.27":
   version "1.0.0-beta.27"
