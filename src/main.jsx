@@ -18,7 +18,7 @@ createApp({
         MuiDrawer: {
           styleOverrides: {
             paper: {
-              backgroundColor: '#827867', // or leave unset to use default
+              backgroundColor: '#a19a8e', // or leave unset to use default
             }
           }
         },
@@ -35,7 +35,7 @@ createApp({
       palette: {
         primary: { main: "#84d2f6" },
         secondary: { main: "#c561f6" },
-        background: { default: "#121212", paper: "#191919" },
+        background: { default: "#282727", paper: "#191919" },
       },
       components: {
         MuiDrawer: {
