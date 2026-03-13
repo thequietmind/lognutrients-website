@@ -35,13 +35,13 @@ createApp({
       palette: {
         primary: { main: "#84d2f6" },
         secondary: { main: "#c561f6" },
-        background: { default: "#282727", paper: "#191919" },
+        background: { default: "#1e1f22", paper: "#191919" },
       },
       components: {
         MuiDrawer: {
           styleOverrides: {
             paper: {
-              backgroundColor: '#453823', // or leave unset to use default
+              backgroundColor: '#2f3328', // or leave unset to use default
             }
           }
         },
