@@ -1,7 +1,7 @@
 import { lazy } from "react";
 
 const HomeMDX = lazy(() => import("@pages/index.mdx"));
-const PrivacyPolicyMDX = lazy(() => import("@pages/privacy-policy.md"));
+const PrivacyPolicyMDX = lazy(() => import("@pages/privacy-policy.mdx"));
 
 export const pages = [
   {
